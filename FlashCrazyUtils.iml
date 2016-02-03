@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="FlashCrazyUtils">
     <configurations>
-      <configuration name="FlashCrazyUtils" target-platform="Desktop" output-type="Library" output-file="FlashCrazyUtils.swc" output-folder="$MODULE_DIR$/../TCAWorkshop/bin">
+      <configuration name="FlashCrazyUtils" target-platform="Desktop" output-type="Library" output-file="FlashCrazyUtils.swc" output-folder="$MODULE_DIR$/bin">
         <dependencies target-player="20.0">
           <sdk name="4.14.1.air-20.0" />
         </dependencies>
