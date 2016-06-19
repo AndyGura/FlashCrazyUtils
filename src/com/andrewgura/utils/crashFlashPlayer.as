@@ -1,6 +1,6 @@
 package com.andrewgura.utils {
 
-    public function crashFlashPlayer() {
+    public function crashFlashPlayer():void {
         trace('com.andrewgura.utils.crashFlashPlayer()');
         try {
             new Vector.<Number>(-1);
